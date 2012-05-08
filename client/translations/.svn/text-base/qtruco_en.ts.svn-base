@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS><TS version="1.1" language="en">
+<defaultcodec></defaultcodec>
+<context>
+    <name>NewGameClass</name>
+    <message>
+        <source>NewGame</source>
+        <translation>Novo Jogo</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Name:</translation>
+    </message>
+    <message>
+        <source>Players</source>
+        <translation>Players</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation>2</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation>4</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation>&amp;Accept</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>&amp;Cancel</translation>
+    </message>
+</context>
+<context>
+    <name>Qtruco</name>
+    <message>
+        <source>English</source>
+        <translation>English</translation>
+    </message>
+    <message>
+        <source>&amp;%1 %2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;File</source>
+        <translation>&amp;File</translation>
+    </message>
+    <message>
+        <source>&amp;Restart</source>
+        <translation>&amp;Restart</translation>
+    </message>
+    <message>
+        <source>&amp;New Game</source>
+        <translation>&amp;New Game</translation>
+    </message>
+    <message>
+        <source>&amp;Statistics</source>
+        <translation>&amp;Statistics</translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation>&amp;Exit</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation>&amp;Language</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>&amp;Help</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>&amp;About</translation>
+    </message>
+</context>
+<context>
+    <name>QtrucoClass</name>
+    <message>
+        <source>Qtruco</source>
+        <translation>Qtruco</translation>
+    </message>
+    <message>
+        <source>&amp;File</source>
+        <translation>&amp;File</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation>&amp;Language</translation>
+    </message>
+    <message>
+        <source>&amp;Help</source>
+        <translation>&amp;Help</translation>
+    </message>
+    <message>
+        <source>&amp;Restart</source>
+        <translation>&amp;Restart</translation>
+    </message>
+    <message>
+        <source>&amp;New Game</source>
+        <translation>&amp;New Game</translation>
+    </message>
+    <message>
+        <source>&amp;Statistics</source>
+        <translation>&amp;Statistics</translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation>&amp;Quit</translation>
+    </message>
+    <message>
+        <source>&amp;About</source>
+        <translation>&amp;About</translation>
+    </message>
+</context>
+</TS>
